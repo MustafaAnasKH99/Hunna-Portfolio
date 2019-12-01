@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Hunna - Mothers of The Revolution`,
+    description: `Hunna tells the story of the Syrian revolution by the eyes of four women as mothers, activists, journalists, and education experts`,
+    author: `@MustafaAnasKH99`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
