@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
+    title: "Hunna - Mothers of The Revolution",
+    author: "Mustafa Anas",
+    description: "Hunna is a documentary filmed in Lebanon that shows the story of the Syrian revolution told by four Syrian women, an activist - Ghalia Rahhal, an educationist - Ola Aljunde, a feminist - Sabah Hallaq, and a journalist - Fadwa Burhan."
   },
   plugins: [
     'gatsby-plugin-react-helmet',
