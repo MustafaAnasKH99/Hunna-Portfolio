@@ -33,24 +33,23 @@ class Main extends React.Component {
             <img src={pic01} alt="main-pic" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            Hunna: Mothers of Revolution attempts to re-contextualize the Syrian revolution and 
+            ongoing violence by having individual women revolutionaries tell their stories. 
+            Focusing on four women -- Ola Al-Junde, Sabah Al-Halaq, Fadwa Burhan, and Ghalia Al-Rahaal
+            -- Hunna recounts the early days of the revolution, the counter-revolutionary violence 
+            that forced most of these women into exile, and their various efforts to continue the 
+            revolution from exile. By focusing on individual women’s stories, including her losses and 
+            her successes, Hunna hopes to tell a story about Syrian women that exceeds the tired 
+            accounts of Syrian women as suffering, apolitical, victims. In so doing, it also aims to 
+            shed light on the soul of the revolution that has been forgotten, erased, and warped by 
+            the media, the regime, and the officially recognized opposition leaders.  
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            Yes, the women interviewed in the documentary have lost much; and yes, the current 
+            state of the revolution appears to be dire. And yet none of these women tell stories 
+            of loss to elicit sympathy or to express regret. Rather, they tell these stories in 
+            order to illustrate the brutality of the Syrian regime and celebrate their own nascent
+            capacity to resist, revolt, and liberate Syria.
           </p>
           {close}
         </article>
