@@ -9,8 +9,11 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>Hunna</h1>
-                <p> <strong>Mothers of the revolution, </strong></p><p>A documentary that tells the story of the Syrian revolution</p>
-                <p>as seen by the eyes of its mothers</p>
+                <p>Mothers of the revolution,</p>
+                <strong>
+                    <p>A documentary that tells the story of the Syrian revolution</p>
+                    <p>as seen by the eyes of its mothers</p>
+                </strong>
             </div>
         </div>
         <nav>
