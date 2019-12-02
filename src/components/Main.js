@@ -117,7 +117,7 @@ class Main extends React.Component {
           
             <p>Have anything in mind you want to tell us?.</p>
             <p>Feel like helping us spread our message?</p>
-            <p>Just drop easy a message below!</p>
+            <p>Just drop us a message below!</p>
           
           <form method="post" action="#">
             <div className="field half first">
