@@ -114,18 +114,23 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
+          
+            <p>Have anything in mind you want to tell us?.</p>
+            <p>Feel like helping us spread our message?</p>
+            <p>Just drop easy a message below!</p>
+          
           <form method="post" action="#">
             <div className="field half first">
               <label htmlFor="name">Name</label>
-              <input type="text" name="name" id="name" />
+              <input type="text" name="name" id="name" placeholder="First and Last name"/>
             </div>
             <div className="field half">
               <label htmlFor="email">Email</label>
-              <input type="text" name="email" id="email" />
+              <input type="text" name="email" id="email" placeholder="email@example.com" />
             </div>
             <div className="field">
               <label htmlFor="message">Message</label>
-              <textarea name="message" id="message" rows="4"></textarea>
+              <textarea name="message" id="message" rows="4" placeholder="We are listening!" ></textarea>
             </div>
             <ul className="actions">
               <li>
