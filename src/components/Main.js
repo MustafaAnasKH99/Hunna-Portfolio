@@ -95,13 +95,53 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+            Hunna was planned, filmed, and dircted in Lebanon, Italy, Sweden, and the US.
+            Mustafa, Mohamad, and Tory worked together physically and remotely in 2017 all
+            year long to get this documentary started. It was also screened in many different
+            countries around the globe and in many different languages. So meet this amazing 
+            team below! 
+          </p>
+
+          <p>
+            <a href="https://www.facebook.com/profile.php?id=100007532714970" target="_blank">Tory Brykalski</a> is an instructor of anthropology at the University of 
+            California Davis. She has more than 12 years of experience working as 
+            a consultant, teacher, and researcher in the Middle East. She received 
+            a BA in theology and wilderness education from Wheaton College and an MA 
+            in public policy from Columbia University. She is currently writing her 
+            dissertation on emergency education in the so-called global war on terrorism. 
+            It provides an ethnographic account of emergency education in Lebanon’s Bekaa 
+            Valley (2013-2018) in order to explore the nature of the war between the Syrian 
+            regime and the Syrian people and the possibility of survival. She is also 
+            the co-producer of the ethnographic film Hunna: Mothers of Revolution (2018) 
+            and co-author of the children’s animated series The Magic Tent (2019).
+          </p>
+
+          <p>
+            Her research shows the ways in which the Syrian Revolution is also a pedagogy 
+            of life that can be taught in schools planted both in Syria’s borderlands and 
+            in exile. She considers her participation in the film project Hunna: Mothers of 
+            Revolution as participation in the Revolution, and wants to offer the film as a 
+            gift to its viewers in the hopes that it, too, teaches them another way to understand 
+            what counts as revolution. 
+          </p>
+
+          <p>
+            <a target="_blank" href="https://www.mustafaanas.com/">Mustafa Anas</a> is a 19-year-old Syrian refugee who fled Syria in 2013 after the regime’s 
+            military invasion of his village. He has been active in Syrian refugee issues abroad since 
+            then. His exposure to the international community made him decide to talk more about the 
+            revolution and what it means to him as a young man in particular and to the Syrian community 
+            in exile more generally.
+          </p>
+
+          <p>
+            <a href="https://www.facebook.com/mohammad.algonde" target="_blank">Mohamad Aljounde</a> is an 18 year-old Syrian refugee who fled Syria in 2013 after his mom was arrested 
+            twice and received a death threat. He settled in Lebanon and began his journey with activism in the 
+            Syrian refugee camps since then. A group of Syrian refugees alongside his family and him were able to 
+            start a school called "Gharsah" or sprout in English. He sees this project and other projects he did 
+            as a continuity of the Syrian revolution were the values he's been taught through the revolution and 
+            work manifest every aspect of his life at the moment, after winning the international children peace 
+            prize and MTV EMA generation change award. He decided to tell the story of the revolution from his 
+            perspective to the international community. 
           </p>
           {close}
         </article>
@@ -114,7 +154,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          
+
             <p>Have anything in mind you want to tell us?.</p>
             <p>Feel like helping us spread our message?</p>
             <p>Just drop us a message below!</p>
